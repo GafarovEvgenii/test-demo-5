@@ -6,3 +6,4 @@ venv/*
 *.venv_
 .idea/
 .venv/
+allure-results
