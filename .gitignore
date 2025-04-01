@@ -2,5 +2,5 @@ venv
 .pytest_cashe
 __pycashe__
 venv/*
-../.idea
+.idea
 *.venv_
